@@ -1,0 +1,13 @@
+Hi, I’m Alex, co-founder of SynthOrg. 
+We build virtual organ models to reduce wet-lab assays for toxicity prediction.
+
+My background is physics at ETH Zurich and ML systems at DeepMind. 
+We started the company after seeing pharma teams struggle with simulation workflows. 
+Our current traction includes two pilots, one with a biotech in Boston and one with a European pharma.
+
+The main challenge is validating our organoid models quickly enough. 
+Our approach is to layer mechanistic priors with generative diffusion models.
+
+We’re raising 1.2M to productize the pipeline and expand the dataset.
+
+I’m confident we can replace 20 percent of in vitro assays within 18 months.
