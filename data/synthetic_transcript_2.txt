@@ -1,0 +1,42 @@
+Hey Marisa, thanks for taking the call. 
+I’m Daniel, CEO of BioNovaX. 
+We’re basically building the future of drug discovery through AI. 
+Think of us like “the next DeepMind for biology” but more flexible.
+
+We started the company because pharma is inefficient. 
+Our model solves that by reducing the need for experiments. 
+It’s an LLM for biological systems. 
+We haven’t published the spec yet because it’s proprietary, 
+but we believe it will outperform everything on the market 
+once we complete a few more internal tests.
+
+My background is a mix of biology and business. 
+I did a biotech bootcamp, then worked at a startup that used machine learning 
+for agriculture. 
+I wasn’t directly involved in the modeling, but I saw how powerful AI can be.
+
+At the moment, we’re in discussions with several large pharma companies. 
+I can’t share names because the NDAs aren’t finalized, 
+but they’re all very excited. 
+One head of R&D apparently said our approach could “change the way the industry works” 
+but I don’t want to overpromise. 
+Still, we’re confident that once we close the first deal, 
+growth will accelerate rapidly.
+
+We haven't generated wet-lab data yet, mainly because we're trying to find 
+the right CRO partner. 
+We had one lined up, but they suddenly increased prices, 
+so we're considering doing things in-house, which I think will give us 
+better control anyway.
+
+In terms of competition, we don’t see any real direct competitors 
+because our model is unique. 
+Most players are either too academic or too focused on a single modality. 
+Our approach is multimodal from day one.
+
+For fundraising, we're thinking of raising 6M although the exact amount is flexible. 
+We need capital primarily for hiring a lead ML engineer and a senior scientist. 
+We haven’t hired those roles yet, but we believe we can attract top talent 
+once we have funding.
+
+Happy to go deeper if helpful.
