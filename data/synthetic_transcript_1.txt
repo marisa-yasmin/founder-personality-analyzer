@@ -1,13 +1,32 @@
-Hi, I’m Alex, co-founder of SynthOrg. 
-We build virtual organ models to reduce wet-lab assays for toxicity prediction.
+Hi Marisa, great to speak with you. I’m Priya, co-founder and CEO of HelixFold Bio. 
+We’re building a computational platform to predict protein stability improvements 
+using a hybrid of physics-informed transformers and active wet-lab loops.
 
-My background is physics at ETH Zurich and ML systems at DeepMind. 
-We started the company after seeing pharma teams struggle with simulation workflows. 
-Our current traction includes two pilots, one with a biotech in Boston and one with a European pharma.
+My background is chemical engineering at MIT and five years in the protein design team at Moderna. 
+My co-founder Luca did his PhD at EMBL on evolutionary models for protein fitness landscapes. 
+We started HelixFold after repeatedly seeing the same bottleneck in biologics 
+teams: you can predict function decently well, but stability and expressibility 
+still require months of trial-and-error.
 
-The main challenge is validating our organoid models quickly enough. 
-Our approach is to layer mechanistic priors with generative diffusion models.
+Our approach has three layers. 
+First, a large embedding model trained on 200M proteins from UniRef.  
+Second, a physics-informed fine-tuning head that incorporates thermodynamic priors.  
+Third, an active-learning loop: every week we generate a batch of 96 variants, 
+run wet-lab assays with a CRO we’ve partnered with, fold the data back into the model, 
+and re-sample the fitness landscape.
 
-We’re raising 1.2M to productize the pipeline and expand the dataset.
+We launched the company nine months ago. 
+Right now we have five paid pilot agreements: two biotechs in Boston, one EU pharma, 
+and two platform-stage startups. 
+Churn is zero so far, and we’re expanding one pilot from 8 proteins per month to 24.
 
-I’m confident we can replace 20 percent of in vitro assays within 18 months.
+Key risk is scaling the wet-lab loop fast enough. 
+We’re solving this by moving the assays in-house. 
+We just signed a lease in Cambridge and have a senior scientist joining in January.
+
+For the fundraise: we're targeting 3.5M to automate sample prep, extend the model 
+to glycosylated proteins, and build the regulatory-grade audit trail that enterprise 
+teams are pushing for.
+
+I’d love to walk you through how we think about model generalization vs task specialization. 
+That’s where we believe our core defensibility sits.
