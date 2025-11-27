@@ -47,18 +47,23 @@ Outputs are based on synthetic example transcripts in `data/`.
 
 ## 🚀 Running the Demo
 
-Install dependencies:
-pip install -r requirements.txt
+To run the LLM pipeline locally:
 
-Run:
-pip install -r requirements.txt
+1. Create a `.env` file in the project root:
+   
+   OPENAI_API_KEY=your_key_here
+
+2. Install dependencies:
+
+   pip install -r requirements.txt
+
+3. Run the demo notebook or pipeline scripts.
+
 
 ---
 
 ## 📦 Notes
 
-This repository contains **no actual call transcripts**, **no proprietary data**, and **no confidential VC information**.
-
-It demonstrates only the *architecture and mechanisms* of an LLM-based founder evaluation tool.
+This repository contains no actual call transcripts or other proprietary / confidential information. It demonstrates only the *architecture and mechanisms* of an LLM-based founder evaluation tool.
 
 ---
