@@ -1,5 +1,5 @@
 from openai import OpenAI
-from .config import MODEL_NAME
+from .config import client, MODEL_NAME
 
 client = OpenAI()
 
